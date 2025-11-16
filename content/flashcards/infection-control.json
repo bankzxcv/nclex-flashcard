@@ -1,0 +1,263 @@
+{
+  "deck": {
+    "id": "infection-control",
+    "title": "Infection Control & Isolation Precautions",
+    "description": "Master infection control, hand hygiene, PPE, and isolation precautions for NCLEX",
+    "category": "Safe and Effective Care Environment",
+    "subcategory": "Safety and Infection Control",
+    "difficulty": "medium",
+    "totalCards": 30,
+    "tags": ["infection-control", "isolation", "PPE", "hand-hygiene", "nclex-essential"]
+  },
+  "cards": [
+    {
+      "id": 1,
+      "question": "What is the MOST important measure to prevent healthcare-associated infections?",
+      "answer": "Hand hygiene",
+      "explanation": "This is ALWAYS the answer on NCLEX! Hand hygiene is the single most effective way to prevent transmission of infections.",
+      "difficulty": "easy",
+      "tags": ["hand-hygiene", "infection-prevention", "priority"]
+    },
+    {
+      "id": 2,
+      "question": "When should you use soap and water instead of alcohol-based hand rub?",
+      "answer": "C. difficile, norovirus, visibly soiled hands, or after restroom use",
+      "explanation": "Alcohol does NOT kill C. diff spores or norovirus. Must use soap and water for spore-forming organisms.",
+      "difficulty": "medium",
+      "tags": ["hand-hygiene", "c-diff", "hand-washing"]
+    },
+    {
+      "id": 3,
+      "question": "What type of isolation for a patient with MRSA?",
+      "answer": "Contact Precautions",
+      "explanation": "MRSA spreads by direct contact. Requires gloves and gown. Private room preferred. Dedicated equipment.",
+      "difficulty": "easy",
+      "tags": ["contact-precautions", "MRSA", "isolation"]
+    },
+    {
+      "id": 4,
+      "question": "What type of isolation for a patient with Tuberculosis?",
+      "answer": "Airborne Precautions",
+      "explanation": "TB is airborne (small particles <5 microns). Requires N95 respirator and negative pressure room. Door must stay closed.",
+      "difficulty": "easy",
+      "tags": ["airborne-precautions", "tuberculosis", "N95"]
+    },
+    {
+      "id": 5,
+      "question": "What type of isolation for a patient with Influenza?",
+      "answer": "Droplet Precautions",
+      "explanation": "Flu spreads via large droplets (>5 microns) within 3 feet. Requires surgical mask. Private room preferred.",
+      "difficulty": "easy",
+      "tags": ["droplet-precautions", "influenza", "isolation"]
+    },
+    {
+      "id": 6,
+      "question": "What is the mnemonic for Airborne precautions?",
+      "answer": "MTV: Measles, Tuberculosis, Varicella (chickenpox)",
+      "explanation": "These infections remain suspended in air. Require N95 respirator and negative pressure room.",
+      "difficulty": "medium",
+      "tags": ["airborne-precautions", "mnemonics", "MTV"]
+    },
+    {
+      "id": 7,
+      "question": "What is the mnemonic for Contact precautions?",
+      "answer": "MRS. WEE: MRSA, RSV, Scabies, Wounds, Enteric (C. diff), Eye infections",
+      "explanation": "Contact precautions require gloves and gown for direct or indirect contact transmission.",
+      "difficulty": "medium",
+      "tags": ["contact-precautions", "mnemonics", "MRS-WEE"]
+    },
+    {
+      "id": 8,
+      "question": "What is the correct order for donning (putting on) PPE?",
+      "answer": "Gown → Mask → Goggles → Gloves",
+      "explanation": "Remember: Gown first, gloves last (to cover gown cuffs). Mnemonic: Good Masks Go Guys!",
+      "difficulty": "medium",
+      "tags": ["PPE", "donning", "infection-control"]
+    },
+    {
+      "id": 9,
+      "question": "What is the correct order for doffing (removing) PPE?",
+      "answer": "Gloves → Goggles → Gown → Mask → Hand hygiene",
+      "explanation": "Most contaminated items first! Gloves most contaminated. Never touch front of mask. Hand hygiene immediately after.",
+      "difficulty": "medium",
+      "tags": ["PPE", "doffing", "infection-control"]
+    },
+    {
+      "id": 10,
+      "question": "What mask is required for Tuberculosis?",
+      "answer": "N95 respirator (fit-tested)",
+      "explanation": "N95 filters particles ≥0.3 microns. Must be fit-tested annually. Surgical masks NOT adequate for TB!",
+      "difficulty": "easy",
+      "tags": ["N95", "tuberculosis", "airborne-precautions"]
+    },
+    {
+      "id": 11,
+      "question": "What type of room is required for Tuberculosis?",
+      "answer": "Negative pressure room (air flows INTO room)",
+      "explanation": "Prevents contaminated air from escaping. Door must remain closed. Air exhausted directly outside or through HEPA filter.",
+      "difficulty": "medium",
+      "tags": ["tuberculosis", "negative-pressure", "airborne-precautions"]
+    },
+    {
+      "id": 12,
+      "question": "A patient with C. difficile needs to be transported. What should they wear?",
+      "answer": "Nothing required (C. diff is contact, not airborne/droplet)",
+      "explanation": "Unlike airborne/droplet patients who wear masks during transport, contact precautions don't require patient to wear anything. Just maintain hand hygiene after contact.",
+      "difficulty": "hard",
+      "tags": ["c-diff", "contact-precautions", "transport"]
+    },
+    {
+      "id": 13,
+      "question": "A patient with active TB needs to be transported. What should they wear?",
+      "answer": "Surgical mask",
+      "explanation": "Patient wears surgical mask during transport to contain droplets. Staff still need N95. Limit transport to essential only.",
+      "difficulty": "medium",
+      "tags": ["tuberculosis", "airborne-precautions", "transport"]
+    },
+    {
+      "id": 14,
+      "question": "How long should proper handwashing take?",
+      "answer": "At least 20 seconds",
+      "explanation": "Sing 'Happy Birthday' twice. Scrub all surfaces including between fingers and under nails. Rinse thoroughly and dry with paper towel.",
+      "difficulty": "easy",
+      "tags": ["hand-hygiene", "handwashing", "technique"]
+    },
+    {
+      "id": 15,
+      "question": "What are Standard Precautions?",
+      "answer": "Precautions used with ALL patients to prevent transmission of bloodborne pathogens and body fluids",
+      "explanation": "Assume all blood and body fluids are infectious. Includes hand hygiene, PPE based on exposure, safe injection practices, respiratory hygiene.",
+      "difficulty": "medium",
+      "tags": ["standard-precautions", "universal-precautions", "basics"]
+    },
+    {
+      "id": 16,
+      "question": "Which body fluids require Standard Precautions?",
+      "answer": "Blood, all body fluids/secretions/excretions (EXCEPT SWEAT), non-intact skin, mucous membranes",
+      "explanation": "Sweat is the only body fluid that does NOT require precautions unless visibly contaminated with blood.",
+      "difficulty": "medium",
+      "tags": ["standard-precautions", "body-fluids"]
+    },
+    {
+      "id": 17,
+      "question": "What type of isolation for Varicella (Chickenpox)?",
+      "answer": "Airborne + Contact Precautions",
+      "explanation": "Varicella is both airborne and spread by direct contact with lesions. Requires N95, gloves, gown, negative pressure room.",
+      "difficulty": "hard",
+      "tags": ["varicella", "airborne-precautions", "contact-precautions"]
+    },
+    {
+      "id": 18,
+      "question": "Can two patients with MRSA share a room?",
+      "answer": "Yes, this is called cohorting (same infection, can room together)",
+      "explanation": "Cohorting is acceptable when private rooms unavailable. Both patients must have SAME infection. Still use PPE for both.",
+      "difficulty": "medium",
+      "tags": ["cohorting", "MRSA", "contact-precautions"]
+    },
+    {
+      "id": 19,
+      "question": "What PPE is needed for Standard Precautions during patient bathing?",
+      "answer": "Gloves (gown if soiling likely)",
+      "explanation": "PPE based on anticipated exposure. Bathing = skin contact = gloves. Add gown if clothing might get soiled. Mask/goggles not needed unless splashing.",
+      "difficulty": "medium",
+      "tags": ["PPE", "standard-precautions", "patient-care"]
+    },
+    {
+      "id": 20,
+      "question": "What PPE is needed when suctioning a tracheostomy?",
+      "answer": "Gloves, gown (if soiling likely), mask, eye protection",
+      "explanation": "Suctioning generates splashes and aerosols. Needs full PPE to protect from respiratory secretions splashing into face.",
+      "difficulty": "medium",
+      "tags": ["PPE", "suctioning", "respiratory"]
+    },
+    {
+      "id": 21,
+      "question": "A sterile field becomes wet. What should the nurse do?",
+      "answer": "Consider the field contaminated and replace it",
+      "explanation": "Moisture causes 'strike-through' - bacteria can wick through wet barrier. Wet = contaminated. Must replace.",
+      "difficulty": "easy",
+      "tags": ["sterile-technique", "contamination", "asepsis"]
+    },
+    {
+      "id": 22,
+      "question": "The nurse turns away from a sterile field. What action is needed?",
+      "answer": "Consider the field contaminated and replace it",
+      "explanation": "Never turn your back on sterile field. Cannot see if it becomes contaminated. When in doubt, throw it out!",
+      "difficulty": "easy",
+      "tags": ["sterile-technique", "contamination", "asepsis"]
+    },
+    {
+      "id": 23,
+      "question": "What is the sterile border around a sterile field?",
+      "answer": "1 inch edge is considered unsterile",
+      "explanation": "Only the center of sterile field is sterile. Outer 1-inch border is contaminated. Don't place sterile items within 1 inch of edge.",
+      "difficulty": "medium",
+      "tags": ["sterile-technique", "sterile-field", "asepsis"]
+    },
+    {
+      "id": 24,
+      "question": "Where should sterile items be held during a procedure?",
+      "answer": "Above waist level and in front of body",
+      "explanation": "Can only see and ensure sterility of items above waist and in front. Below waist = contaminated.",
+      "difficulty": "medium",
+      "tags": ["sterile-technique", "asepsis"]
+    },
+    {
+      "id": 25,
+      "question": "What infections require Droplet Precautions? (Mnemonic: SPIDERMAN)",
+      "answer": "Strep throat, Pertussis, Influenza, Diphtheria, Epiglottitis, Rubella, Mumps, Meningitis, Adenovirus",
+      "explanation": "Large droplets travel <3 feet. Requires surgical mask within 3 feet of patient. Private room preferred.",
+      "difficulty": "hard",
+      "tags": ["droplet-precautions", "mnemonics", "SPIDERMAN"]
+    },
+    {
+      "id": 26,
+      "question": "How should you prevent CAUTI (Catheter-Associated UTI)?",
+      "answer": "Insert only when necessary, maintain closed drainage, keep bag below bladder, daily perineal care, remove ASAP",
+      "explanation": "Most HAIs are preventable! CAUTI is most common HAI. Best prevention is avoiding unnecessary catheter use.",
+      "difficulty": "medium",
+      "tags": ["CAUTI", "catheter", "HAI-prevention"]
+    },
+    {
+      "id": 27,
+      "question": "How should you prevent VAP (Ventilator-Associated Pneumonia)?",
+      "answer": "Elevate HOB 30-45°, oral care with chlorhexidine q2h, suction secretions, daily sedation vacation",
+      "explanation": "VAP bundle prevents pneumonia in ventilated patients. HOB elevation prevents aspiration.",
+      "difficulty": "hard",
+      "tags": ["VAP", "ventilator", "HAI-prevention"]
+    },
+    {
+      "id": 28,
+      "question": "How should you prevent CLABSI (Central Line Bloodstream Infection)?",
+      "answer": "Strict sterile technique, daily chlorhexidine bath, assess need daily, scrub hub before access, proper dressing changes",
+      "explanation": "Central lines are direct portal to bloodstream. Strict aseptic technique essential. Remove when no longer needed.",
+      "difficulty": "hard",
+      "tags": ["CLABSI", "central-line", "HAI-prevention"]
+    },
+    {
+      "id": 29,
+      "question": "Nurse has a question about sterility of an item. What should be done?",
+      "answer": "Consider it contaminated",
+      "explanation": "When in doubt, throw it out! If you question sterility, it's contaminated. Patient safety comes first.",
+      "difficulty": "easy",
+      "tags": ["sterile-technique", "contamination", "safety"]
+    },
+    {
+      "id": 30,
+      "question": "What is medical asepsis vs surgical asepsis?",
+      "answer": "Medical = 'clean technique' (reduces organisms). Surgical = 'sterile technique' (eliminates all organisms)",
+      "explanation": "Medical asepsis for most patient care. Surgical asepsis for invasive procedures (surgery, catheter insertion, wound care).",
+      "difficulty": "medium",
+      "tags": ["asepsis", "medical-asepsis", "surgical-asepsis"]
+    }
+  ],
+  "studyTips": [
+    "Hand hygiene is ALWAYS the priority answer for infection prevention",
+    "Remember MTV for Airborne, MRS WEE for Contact, SPIDERMAN for Droplet",
+    "N95 for Airborne (TB, Measles, Varicella), Surgical mask for Droplet",
+    "C. diff requires soap and water - alcohol doesn't kill spores!",
+    "PPE off: Most contaminated first (Gloves first!)",
+    "When in doubt about sterility = contaminated",
+    "Know the difference between Contact, Droplet, and Airborne precautions"
+  ]
+}
