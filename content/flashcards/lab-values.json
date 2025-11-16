@@ -1,0 +1,423 @@
+{
+  "deck": {
+    "id": "lab-values",
+    "title": "Laboratory Values",
+    "description": "Essential lab values every nursing student must know for NCLEX",
+    "category": "Physiological Integrity",
+    "subcategory": "Reduction of Risk Potential",
+    "difficulty": "medium",
+    "totalCards": 50,
+    "tags": ["lab-values", "diagnostic-tests", "nclex-essential"]
+  },
+  "cards": [
+    {
+      "id": 1,
+      "question": "What is the normal range for Sodium (Na+)?",
+      "answer": "135-145 mEq/L",
+      "explanation": "Sodium is the major extracellular cation. Hyponatremia (<135) can cause confusion and seizures. Hypernatremia (>145) causes thirst and restlessness.",
+      "difficulty": "easy",
+      "tags": ["electrolytes", "sodium"]
+    },
+    {
+      "id": 2,
+      "question": "What is the normal range for Potassium (K+)?",
+      "answer": "3.5-5.0 mEq/L",
+      "explanation": "Critical value! Hypokalemia causes weakness and arrhythmias. Hyperkalemia (>6.5) is life-threatening - can cause cardiac arrest.",
+      "difficulty": "easy",
+      "tags": ["electrolytes", "potassium", "critical-value"]
+    },
+    {
+      "id": 3,
+      "question": "A patient has K+ of 6.2 mEq/L. What is the priority nursing action?",
+      "answer": "Assess cardiac rhythm and notify provider immediately",
+      "explanation": "Hyperkalemia can cause life-threatening cardiac arrhythmias. Priority is cardiac monitoring. Treatment may include calcium gluconate (cardiac protection), insulin with dextrose, or kayexalate.",
+      "difficulty": "medium",
+      "tags": ["potassium", "emergency", "critical-thinking"]
+    },
+    {
+      "id": 4,
+      "question": "What is the normal range for Hemoglobin (Hgb)?",
+      "answer": "Male: 14-18 g/dL, Female: 12-16 g/dL",
+      "explanation": "Hemoglobin carries oxygen. Low levels indicate anemia. High levels may indicate COPD or dehydration.",
+      "difficulty": "easy",
+      "tags": ["hematology", "hemoglobin"]
+    },
+    {
+      "id": 5,
+      "question": "What is the normal range for Platelets?",
+      "answer": "150,000-400,000/mm³",
+      "explanation": "Platelets are essential for clotting. <50,000 = high bleeding risk. Implement bleeding precautions.",
+      "difficulty": "easy",
+      "tags": ["hematology", "platelets", "bleeding"]
+    },
+    {
+      "id": 6,
+      "question": "What is the therapeutic INR range for a patient on Warfarin?",
+      "answer": "2.0-3.0 (sometimes 2.5-3.5 for mechanical heart valves)",
+      "explanation": "INR measures effectiveness of warfarin. <2.0 = risk of clots. >3.0 = risk of bleeding. Antidote is Vitamin K.",
+      "difficulty": "medium",
+      "tags": ["coagulation", "warfarin", "therapeutic-range"]
+    },
+    {
+      "id": 7,
+      "question": "A patient on Warfarin has INR of 4.5. What should the nurse do?",
+      "answer": "Hold the dose and notify the provider",
+      "explanation": "INR of 4.5 is above therapeutic range (2.0-3.0), indicating increased bleeding risk. Assess for bleeding signs. Provider may order Vitamin K.",
+      "difficulty": "medium",
+      "tags": ["warfarin", "critical-thinking", "medication-safety"]
+    },
+    {
+      "id": 8,
+      "question": "What is the therapeutic aPTT range for Heparin therapy?",
+      "answer": "1.5-2 times the control (typically 25-35 seconds × 1.5-2 = 40-70 seconds)",
+      "explanation": "aPTT monitors heparin effectiveness. Too low = inadequate anticoagulation. Too high = bleeding risk. Antidote is Protamine sulfate.",
+      "difficulty": "medium",
+      "tags": ["coagulation", "heparin", "therapeutic-range"]
+    },
+    {
+      "id": 9,
+      "question": "What is the normal range for fasting blood glucose?",
+      "answer": "70-110 mg/dL",
+      "explanation": "Values <70 indicate hypoglycemia (give fast-acting sugar). Values >126 (fasting) indicate diabetes.",
+      "difficulty": "easy",
+      "tags": ["glucose", "diabetes", "endocrine"]
+    },
+    {
+      "id": 10,
+      "question": "What is the normal range for Calcium (Ca++)?",
+      "answer": "8.5-10.5 mg/dL",
+      "explanation": "Hypocalcemia causes tetany, Chvostek's sign, Trousseau's sign. Hypercalcemia causes kidney stones, confusion, constipation ('stones, bones, groans, psychiatric overtones').",
+      "difficulty": "medium",
+      "tags": ["electrolytes", "calcium"]
+    },
+    {
+      "id": 11,
+      "question": "What is the normal range for Magnesium (Mg++)?",
+      "answer": "1.5-2.5 mEq/L",
+      "explanation": "Hypomagnesemia causes tremors, arrhythmias. Hypermagnesemia causes decreased reflexes, respiratory depression.",
+      "difficulty": "medium",
+      "tags": ["electrolytes", "magnesium"]
+    },
+    {
+      "id": 12,
+      "question": "Interpret this ABG: pH 7.30, PaCO2 50, HCO3- 24",
+      "answer": "Respiratory Acidosis (uncompensated)",
+      "explanation": "pH is acidotic (<7.35). PaCO2 is high (>45), indicating respiratory cause. HCO3- is normal, so no compensation. Common in COPD or respiratory depression.",
+      "difficulty": "hard",
+      "tags": ["ABG", "acid-base", "respiratory"]
+    },
+    {
+      "id": 13,
+      "question": "Interpret this ABG: pH 7.50, PaCO2 30, HCO3- 24",
+      "answer": "Respiratory Alkalosis (uncompensated)",
+      "explanation": "pH is alkalotic (>7.45). PaCO2 is low (<35), indicating respiratory cause. HCO3- is normal. Common in hyperventilation, anxiety, pain.",
+      "difficulty": "hard",
+      "tags": ["ABG", "acid-base", "respiratory"]
+    },
+    {
+      "id": 14,
+      "question": "Interpret this ABG: pH 7.28, PaCO2 40, HCO3- 18",
+      "answer": "Metabolic Acidosis (uncompensated)",
+      "explanation": "pH is acidotic (<7.35). PaCO2 is normal. HCO3- is low (<22), indicating metabolic cause. Common in DKA, renal failure, diarrhea.",
+      "difficulty": "hard",
+      "tags": ["ABG", "acid-base", "metabolic"]
+    },
+    {
+      "id": 15,
+      "question": "What is the normal pH range for arterial blood?",
+      "answer": "7.35-7.45",
+      "explanation": "Below 7.35 = acidosis. Above 7.45 = alkalosis. Critical values: <7.2 or >7.6.",
+      "difficulty": "easy",
+      "tags": ["ABG", "acid-base"]
+    },
+    {
+      "id": 16,
+      "question": "What is the normal range for WBC (White Blood Cells)?",
+      "answer": "4,000-10,000/mm³",
+      "explanation": "Low WBC (leukopenia) = immunosuppression risk. High WBC (leukocytosis) = infection or leukemia.",
+      "difficulty": "easy",
+      "tags": ["hematology", "WBC", "infection"]
+    },
+    {
+      "id": 17,
+      "question": "What is the therapeutic Digoxin level?",
+      "answer": "0.5-2.0 ng/mL",
+      "explanation": "Toxicity occurs at >2.0. Signs: nausea, vision changes (yellow-green halos), arrhythmias. Check before giving! Hold if <60 bpm.",
+      "difficulty": "medium",
+      "tags": ["therapeutic-levels", "digoxin", "cardiac"]
+    },
+    {
+      "id": 18,
+      "question": "What is the therapeutic Lithium level?",
+      "answer": "0.6-1.2 mEq/L",
+      "explanation": "Toxic at >1.5. Signs: tremors, confusion, seizures. Maintain adequate hydration and sodium intake.",
+      "difficulty": "medium",
+      "tags": ["therapeutic-levels", "lithium", "psychiatric"]
+    },
+    {
+      "id": 19,
+      "question": "What is the normal range for BUN (Blood Urea Nitrogen)?",
+      "answer": "7-20 mg/dL",
+      "explanation": "Elevated in renal dysfunction and dehydration. BUN:Creatinine ratio helps differentiate causes.",
+      "difficulty": "medium",
+      "tags": ["renal", "BUN"]
+    },
+    {
+      "id": 20,
+      "question": "What is the normal range for Creatinine?",
+      "answer": "Male: 0.6-1.2 mg/dL, Female: 0.5-1.1 mg/dL",
+      "explanation": "More specific for kidney function than BUN. Elevated in kidney disease. Used to calculate GFR.",
+      "difficulty": "medium",
+      "tags": ["renal", "creatinine"]
+    },
+    {
+      "id": 21,
+      "question": "What labs should be monitored for a patient taking Warfarin?",
+      "answer": "PT/INR",
+      "explanation": "PT measures extrinsic pathway. INR standardizes PT results. Therapeutic INR is 2.0-3.0 for most conditions.",
+      "difficulty": "easy",
+      "tags": ["warfarin", "coagulation", "medication-monitoring"]
+    },
+    {
+      "id": 22,
+      "question": "What labs should be monitored for a patient taking Heparin?",
+      "answer": "aPTT",
+      "explanation": "aPTT measures intrinsic pathway. Therapeutic is 1.5-2 times control. Check before each dose adjustment.",
+      "difficulty": "easy",
+      "tags": ["heparin", "coagulation", "medication-monitoring"]
+    },
+    {
+      "id": 23,
+      "question": "What is the normal range for Hematocrit (Hct)?",
+      "answer": "Male: 40-54%, Female: 36-46%",
+      "explanation": "Hct is % of RBCs in blood. Rule of thumb: Hct is 3× Hemoglobin. Low = anemia. High = dehydration or polycythemia.",
+      "difficulty": "medium",
+      "tags": ["hematology", "hematocrit"]
+    },
+    {
+      "id": 24,
+      "question": "When should Troponin levels be drawn for suspected MI?",
+      "answer": "On arrival, then at 3-6 hours and 12-24 hours",
+      "explanation": "Troponin rises 2-4 hours after MI, peaks at 24 hours, remains elevated 10-14 days. Most specific cardiac marker.",
+      "difficulty": "hard",
+      "tags": ["cardiac-markers", "troponin", "MI"]
+    },
+    {
+      "id": 25,
+      "question": "What is the normal range for Albumin?",
+      "answer": "3.5-5.5 g/dL",
+      "explanation": "Low albumin indicates malnutrition or liver disease. Affects medication binding and fluid distribution.",
+      "difficulty": "medium",
+      "tags": ["liver", "nutrition", "albumin"]
+    },
+    {
+      "id": 26,
+      "question": "What TSH level indicates hypothyroidism?",
+      "answer": "High TSH (>4.0 mIU/L) with low T4",
+      "explanation": "TSH and T4 have inverse relationship. Body produces more TSH to stimulate underactive thyroid. Remember: TSH ↑ = Thyroid ↓",
+      "difficulty": "medium",
+      "tags": ["thyroid", "TSH", "endocrine"]
+    },
+    {
+      "id": 27,
+      "question": "What is the antidote for Warfarin?",
+      "answer": "Vitamin K (Phytonadione)",
+      "explanation": "Given PO or IV for elevated INR or bleeding. May also give fresh frozen plasma for severe bleeding.",
+      "difficulty": "easy",
+      "tags": ["antidotes", "warfarin", "emergency"]
+    },
+    {
+      "id": 28,
+      "question": "What is the antidote for Heparin?",
+      "answer": "Protamine Sulfate",
+      "explanation": "Given IV slowly. Binds to heparin and reverses its effect. Monitor for hypotension during administration.",
+      "difficulty": "easy",
+      "tags": ["antidotes", "heparin", "emergency"]
+    },
+    {
+      "id": 29,
+      "question": "What is the critical low value for Potassium?",
+      "answer": "<2.5 mEq/L",
+      "explanation": "Requires immediate notification. Can cause life-threatening arrhythmias. Never give potassium IV push!",
+      "difficulty": "medium",
+      "tags": ["potassium", "critical-values", "emergency"]
+    },
+    {
+      "id": 30,
+      "question": "What is the critical high value for Potassium?",
+      "answer": ">6.5 mEq/L",
+      "explanation": "Requires immediate notification and treatment. Can cause cardiac arrest. Give calcium gluconate for cardiac protection, then insulin with dextrose.",
+      "difficulty": "medium",
+      "tags": ["potassium", "critical-values", "emergency"]
+    },
+    {
+      "id": 31,
+      "question": "What is the normal range for PaCO2?",
+      "answer": "35-45 mmHg",
+      "explanation": "Respiratory component of ABG. High (>45) = respiratory acidosis. Low (<35) = respiratory alkalosis.",
+      "difficulty": "medium",
+      "tags": ["ABG", "PaCO2", "respiratory"]
+    },
+    {
+      "id": 32,
+      "question": "What is the normal range for HCO3- (Bicarbonate)?",
+      "answer": "22-26 mEq/L",
+      "explanation": "Metabolic component of ABG. Low (<22) = metabolic acidosis. High (>26) = metabolic alkalosis.",
+      "difficulty": "medium",
+      "tags": ["ABG", "bicarbonate", "metabolic"]
+    },
+    {
+      "id": 33,
+      "question": "What is the normal range for Total Cholesterol?",
+      "answer": "Desirable: <200 mg/dL",
+      "explanation": "200-239 = borderline high. ≥240 = high risk for cardiovascular disease.",
+      "difficulty": "easy",
+      "tags": ["lipids", "cholesterol", "cardiovascular"]
+    },
+    {
+      "id": 34,
+      "question": "What is the desirable LDL level?",
+      "answer": "<100 mg/dL (optimal)",
+      "explanation": "LDL is 'bad' cholesterol. Higher levels increase cardiovascular disease risk. Remember: L = Lousy.",
+      "difficulty": "easy",
+      "tags": ["lipids", "LDL", "cardiovascular"]
+    },
+    {
+      "id": 35,
+      "question": "What is the desirable HDL level?",
+      "answer": ">60 mg/dL",
+      "explanation": "HDL is 'good' cholesterol. Higher is better! Remember: H = Healthy. <40 is a risk factor.",
+      "difficulty": "easy",
+      "tags": ["lipids", "HDL", "cardiovascular"]
+    },
+    {
+      "id": 36,
+      "question": "A patient has platelet count of 45,000. What precautions?",
+      "answer": "Bleeding precautions: soft toothbrush, electric razor, avoid IM injections, no rectal temps",
+      "explanation": "Normal platelets: 150,000-400,000. <50,000 = high bleeding risk. <20,000 = spontaneous bleeding risk.",
+      "difficulty": "medium",
+      "tags": ["platelets", "bleeding-precautions", "critical-thinking"]
+    },
+    {
+      "id": 37,
+      "question": "What is the normal range for Bilirubin (Total)?",
+      "answer": "0.1-1.2 mg/dL",
+      "explanation": "Elevated in liver disease or hemolysis. Causes jaundice when >2.5 mg/dL. Phototherapy used for newborn hyperbilirubinemia.",
+      "difficulty": "medium",
+      "tags": ["liver", "bilirubin"]
+    },
+    {
+      "id": 38,
+      "question": "What is the normal range for ALT (Alanine Aminotransferase)?",
+      "answer": "7-56 units/L",
+      "explanation": "Liver enzyme. Elevated in liver damage (hepatitis, cirrhosis, medications). More specific to liver than AST.",
+      "difficulty": "medium",
+      "tags": ["liver", "ALT", "liver-enzymes"]
+    },
+    {
+      "id": 39,
+      "question": "What is the normal range for Ammonia?",
+      "answer": "15-45 mcg/dL",
+      "explanation": "Elevated in liver failure, causing hepatic encephalopathy. Treat with lactulose to reduce ammonia levels.",
+      "difficulty": "hard",
+      "tags": ["liver", "ammonia", "hepatic-encephalopathy"]
+    },
+    {
+      "id": 40,
+      "question": "What is the normal range for PaO2?",
+      "answer": "80-100 mmHg",
+      "explanation": "Measures arterial oxygen. <80 = hypoxemia. <60 = severe hypoxemia requiring oxygen therapy.",
+      "difficulty": "medium",
+      "tags": ["ABG", "PaO2", "oxygenation"]
+    },
+    {
+      "id": 41,
+      "question": "What is the normal range for SaO2 (Oxygen Saturation)?",
+      "answer": "95-100%",
+      "explanation": "Measures % of hemoglobin saturated with oxygen. <90% requires intervention. Correlates with pulse ox reading.",
+      "difficulty": "easy",
+      "tags": ["ABG", "oxygen-saturation"]
+    },
+    {
+      "id": 42,
+      "question": "What labs indicate DKA (Diabetic Ketoacidosis)?",
+      "answer": "Glucose >250 mg/dL, pH <7.3, positive ketones, low HCO3-",
+      "explanation": "Metabolic acidosis from ketone production. Treat with insulin and IV fluids. Monitor potassium closely!",
+      "difficulty": "hard",
+      "tags": ["diabetes", "DKA", "emergency"]
+    },
+    {
+      "id": 43,
+      "question": "What is the therapeutic Phenytoin (Dilantin) level?",
+      "answer": "10-20 mcg/mL",
+      "explanation": "Toxicity: nystagmus, ataxia, slurred speech. Causes gingival hyperplasia. Monitor levels regularly.",
+      "difficulty": "medium",
+      "tags": ["therapeutic-levels", "phenytoin", "anticonvulsant"]
+    },
+    {
+      "id": 44,
+      "question": "What is the normal range for D-dimer?",
+      "answer": "<250 ng/mL (or <0.5 mcg/mL)",
+      "explanation": "Elevated in DVT, PE, DIC. Negative D-dimer helps rule out thrombosis. Not specific - can be elevated in many conditions.",
+      "difficulty": "hard",
+      "tags": ["coagulation", "d-dimer", "thrombosis"]
+    },
+    {
+      "id": 45,
+      "question": "A patient on ACE inhibitor has K+ of 5.8. Why?",
+      "answer": "ACE inhibitors cause potassium retention (hyperkalemia risk)",
+      "explanation": "ACE inhibitors prevent aldosterone secretion, reducing potassium excretion. Monitor K+ levels. Avoid potassium supplements and salt substitutes.",
+      "difficulty": "hard",
+      "tags": ["ACE-inhibitors", "potassium", "medication-effects"]
+    },
+    {
+      "id": 46,
+      "question": "What is the normal range for BNP (B-type Natriuretic Peptide)?",
+      "answer": "<100 pg/mL",
+      "explanation": "Elevated in heart failure. >100 = possible HF, >400 = likely HF. Used to differentiate cardiac vs respiratory dyspnea.",
+      "difficulty": "hard",
+      "tags": ["cardiac-markers", "BNP", "heart-failure"]
+    },
+    {
+      "id": 47,
+      "question": "What labs should be checked before giving Metformin?",
+      "answer": "Kidney function (Creatinine, eGFR)",
+      "explanation": "Metformin is contraindicated in renal impairment due to lactic acidosis risk. Hold before contrast dye procedures.",
+      "difficulty": "medium",
+      "tags": ["metformin", "renal-function", "medication-safety"]
+    },
+    {
+      "id": 48,
+      "question": "What is the normal range for Chloride (Cl-)?",
+      "answer": "95-105 mEq/L",
+      "explanation": "Follows sodium. Important in acid-base balance. High in metabolic acidosis, low in metabolic alkalosis.",
+      "difficulty": "medium",
+      "tags": ["electrolytes", "chloride"]
+    },
+    {
+      "id": 49,
+      "question": "When is a glucose tolerance test positive for gestational diabetes?",
+      "answer": "1-hour test: >140 mg/dL (then do 3-hour test). 3-hour: 2 or more values above threshold",
+      "explanation": "3-hour thresholds: Fasting >95, 1-hr >180, 2-hr >155, 3-hr >140. Gestational diabetes requires diet management and possible insulin.",
+      "difficulty": "hard",
+      "tags": ["pregnancy", "gestational-diabetes", "glucose"]
+    },
+    {
+      "id": 50,
+      "question": "What is the therapeutic Theophylline level?",
+      "answer": "10-20 mcg/mL",
+      "explanation": "Toxicity: tachycardia, seizures, nausea. Narrow therapeutic window. Many drug interactions. Monitor closely.",
+      "difficulty": "medium",
+      "tags": ["therapeutic-levels", "theophylline", "respiratory"]
+    }
+  ],
+  "studyTips": [
+    "Create a lab values chart and review it daily",
+    "Focus on critical values that require immediate notification",
+    "Understand WHY values are abnormal, not just memorize numbers",
+    "Group related values together (all electrolytes, all cardiac markers)",
+    "Practice ABG interpretation using the step-by-step method",
+    "Know therapeutic drug levels and signs of toxicity",
+    "Remember antidotes for common medications"
+  ]
+}
